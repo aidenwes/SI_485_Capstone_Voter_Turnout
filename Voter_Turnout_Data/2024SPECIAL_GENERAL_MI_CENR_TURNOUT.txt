@@ -1,4 +1,4 @@
-County Code	County Name	County Voters
+County_Code	County_Name	County_Voters
 50	MACOMB COUNTY	7454
 82	WAYNE COUNTY	12068
 RECORDS: 2	RESULTS: OFFICIAL

@@ -1,4 +1,4 @@
-County Code	County Name	County Voters
+County_Code	County_Name	County_Voters
 01	ALCONA COUNTY	2838
 02	ALGER COUNTY	2086
 03	ALLEGAN COUNTY	23879
