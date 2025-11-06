@@ -47,6 +47,7 @@ pexpect
 pickleshare
 Pillow
 platformdirs
+plotly
 preshed
 prompt-toolkit
 psutil
